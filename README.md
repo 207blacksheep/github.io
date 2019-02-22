@@ -7,6 +7,8 @@
 <body>
 <div> This is a website about my crazy life, buckle up! </div>/
 </body>
-<IMG SRC="steven chess.jpg">
+<body>
+<div>I am a sophomore at the University of Maine Orono
+</body>
 
 </html>
